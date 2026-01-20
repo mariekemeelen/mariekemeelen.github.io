@@ -7,7 +7,7 @@ first_name: Marieke
 middle_name: 
 last_name: Meelen
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Marieke Meelen's website.
 footer_text: >

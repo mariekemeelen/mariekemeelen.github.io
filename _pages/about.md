@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm interested in how and why language changes, specifically the morphosyntax of Tibeto-Burman and Celtic languages. I use NLP tools to get more and better-annotated data from historical manuscripts (Handwritten Text Recognition) and endangered-language fieldwork (Automatic Speech Recognition). In Cambridge term time, I co-organise the [Historical Linguistics Reading Group](https://sites.google.com/cam.ac.uk/cambridge-histling). 
+I'm interested in *how and why languages change*, specifically the *morphosyntax of Tibeto-Burman and Celtic* languages. I use and develop NLP tools to get more and better-annotated data from historical manuscripts (Handwritten Text Recognition) and endangered-language fieldwork (Automatic Speech Recognition). In Cambridge term time, I co-organise the [Historical Linguistics Reading Group](https://sites.google.com/cam.ac.uk/cambridge-histling). 
 
 I'm currently involved in the following research projects:
 - AHRC-funded `Emergence of Egophoricity' (Co-I with Prof Nathan Hill)
@@ -36,7 +36,7 @@ I'm currently involved in the following research projects:
 - ELDP-funded [`An audio-visual archive of Dzardzongke'](https://www.elararchive.org/dk0666) (PI)
 - ERC-funded [`PaganTibet'](http://www.pagantibet.com) (External Advisor)
 
-I supervise graduate students who are interested in linguistic questions about morphosyntactic change and language documentation of endangered languages in Nepal. If you're interested in applying for a PhD with me in Cambridge, please send me an email with a brief description of your research question and planned methodology. 
+I supervise graduate students who are interested in linguistic questions about morphosyntactic change and language documentation of endangered languages. If you're interested in applying for a PhD with me, please send me an email with a brief description of your research question and planned methodology. 
 
 Current and past PhD students and their topics:
 - Sarah Gordon: Acquisition and change in the history of English and BSL

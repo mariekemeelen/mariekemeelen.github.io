@@ -82,13 +82,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/li11-histling/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%6D%6D%39%38%36@%63%61%6D.%61%63.%75%6B", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',

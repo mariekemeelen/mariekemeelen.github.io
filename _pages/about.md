@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm interested in *how and why languages change*, specifically the *morphosyntax of Tibeto-Burman and Celtic* languages. I use and develop NLP tools to get more and better-annotated data from historical manuscripts (Handwritten Text Recognition) and endangered-language fieldwork (Automatic Speech Recognition). In Cambridge term time, I co-organise the [Historical Linguistics Reading Group](https://sites.google.com/cam.ac.uk/cambridge-histling). 
+I'm interested in **how and why languages change**, specifically the **morphosyntax of Tibeto-Burman and Celtic** languages. I use and develop NLP tools to get more and better-annotated data from historical manuscripts (Handwritten Text Recognition) and endangered-language fieldwork (Automatic Speech Recognition). In Cambridge term time, I co-organise the [Historical Linguistics Reading Group](https://sites.google.com/cam.ac.uk/cambridge-histling). 
 
 I'm currently involved in the following research projects:
 - AHRC-funded `Emergence of Egophoricity' (Co-I with Prof Nathan Hill)

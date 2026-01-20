@@ -29,6 +29,14 @@ latest_posts:
 
 I'm interested in how and why language changes, specifically the morphosyntax of Tibeto-Burman and Celtic languages. I use NLP tools to get more and better-annotated data from historical manuscripts (Handwritten Text Recognition) and endangered-language fieldwork (Automatic Speech Recognition).
 
-I supervise graduate students who are interested in linguistic questions about morphosyntactic change and language documentation of endangered languages in Nepal.
+I supervise graduate students who are interested in linguistic questions about morphosyntactic change and language documentation of endangered languages in Nepal. If you're interested in applying for a PhD with me in Cambridge, please send me an email with a brief description of your research question and planned methodology. 
+
+Current and past PhD students and their topics:
+- Sarah Gordon: Acquisition and change in the history of English and BSL
+- Luca Gal: Language contact in evaluative morphology 
+- Anna Danilova: Comparative syntax of converbs (adverbial participles)
+- Nora Dehmke: Syntactic reconstruction of passives in Celtic
+- Kitty Liu: Diachrony of clause chaining in Tibetic languages
+
 
 

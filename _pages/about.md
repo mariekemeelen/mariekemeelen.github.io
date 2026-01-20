@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Associate Professor in Historical Linguistics
+subtitle: Associate Professor in Historical Linguistics at the University of Cambridge, UK
 
 profile:
   align: right
@@ -22,12 +22,15 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm interested in how and why language changes, specifically the morphosyntax of Tibeto-Burman and Celtic languages. I use NLP tools to get more and better-annotated data from historical manuscripts and endangered-language fieldwork.
+I'm interested in how and why language changes, specifically the morphosyntax of Tibeto-Burman and Celtic languages. I use NLP tools to get more and better-annotated data from historical manuscripts (Handwritten Text Recognition) and endangered-language fieldwork (Automatic Speech Recognition).
+
+I supervise graduate students who are interested in morphosyntactic change.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

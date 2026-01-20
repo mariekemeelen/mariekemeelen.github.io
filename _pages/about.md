@@ -5,7 +5,7 @@ permalink: /
 subtitle: Associate Professor in Historical Linguistics at the University of Cambridge, UK
 
 profile:
-  align: left
+  align: right
   image: Marieke.jpg
   image_circular: false # crops the image to make it circular
   more_info: >

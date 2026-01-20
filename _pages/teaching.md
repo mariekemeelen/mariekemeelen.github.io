@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Lectures and seminars in Cambridge and Summer Schools.
-nav: true
+nav: false
 nav_order: 6
 calendar: true
 ---

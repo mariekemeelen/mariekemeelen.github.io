@@ -29,6 +29,6 @@ latest_posts:
 
 I'm interested in how and why language changes, specifically the morphosyntax of Tibeto-Burman and Celtic languages. I use NLP tools to get more and better-annotated data from historical manuscripts (Handwritten Text Recognition) and endangered-language fieldwork (Automatic Speech Recognition).
 
-I supervise graduate students who are interested in linguistic questions about morphosyntactic change.
+I supervise graduate students who are interested in linguistic questions about morphosyntactic change and language documentation of endangered languages in Nepal.
 
 

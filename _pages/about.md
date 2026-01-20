@@ -34,7 +34,7 @@ I'm currently involved in the following research projects:
 - AHRC-funded `Emergence of Egophoricity' (Co-I with Prof Nathan Hill)
 - CHRG-funded `Teaching materials for endangered languages' (PI)
 - ELDP-funded [`An audio-visual archive of Dzardzongke'](https://www.elararchive.org/dk0666) (PI)
-- ERC-funded [`PaganTibet'](www.pagantibet.com) (External Advisor)
+- ERC-funded [`PaganTibet'](http://www.pagantibet.com) (External Advisor)
 
 I supervise graduate students who are interested in linguistic questions about morphosyntactic change and language documentation of endangered languages in Nepal. If you're interested in applying for a PhD with me in Cambridge, please send me an email with a brief description of your research question and planned methodology. 
 

@@ -28,9 +28,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm interested in how and why language changes, specifically the morphosyntax of Tibeto-Burman and Celtic languages. I use NLP tools to get more and better-annotated data from historical manuscripts (Handwritten Text Recognition) and endangered-language fieldwork (Automatic Speech Recognition).
+I'm interested in how and why language changes, specifically the morphosyntax of Tibeto-Burman and Celtic languages. I use NLP tools to get more and better-annotated data from historical manuscripts (Handwritten Text Recognition) and endangered-language fieldwork (Automatic Speech Recognition). In Cambridge term time, I co-organise the [Historical Linguistics Reading Group](https://sites.google.com/cam.ac.uk/cambridge-histling). 
 
-In Cambridge term time, I co-organise the [Historical Linguistics Reading Group](https://sites.google.com/cam.ac.uk/cambridge-histling).
+I'm currently involved in the following research projects:
+- AHRC-funded `Emergence of Egophoricity' (Co-I with Prof Nathan Hill)
+- CHRG-funded `Teaching materials for endangered languages' (PI)
+- ELDP-funded [`An audio-visual archive of Dzardzongke'](https://www.elararchive.org/dk0666) (South Mustang Tibetan) (PI)
+- ERC-funded [`PaganTibet'](www.pagantibet.com) (External Advisor)
 
 I supervise graduate students who are interested in linguistic questions about morphosyntactic change and language documentation of endangered languages in Nepal. If you're interested in applying for a PhD with me in Cambridge, please send me an email with a brief description of your research question and planned methodology. 
 
@@ -40,6 +44,6 @@ Current and past PhD students and their topics:
 - [Anna Danilova](https://sites.google.com/cam.ac.uk/annadanilovalinguist/home?authuser=0): Comparative syntax of converbs (adverbial participles)
 - Nora Dehmke: Syntactic reconstruction of passives in Celtic
 - Kitty Liu: Diachrony of clause chaining in Tibetic languages
-
+- Stephen Mulraney: Linguistic features of Old Tibetan
 
 

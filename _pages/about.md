@@ -5,13 +5,14 @@ permalink: /
 subtitle: Associate Professor in Historical Linguistics at the University of Cambridge, UK
 
 profile:
-  align: right
+  align: left
   image: Marieke.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Trinity Hall, room B8</p>
     <p>Trinity Lane</p>
     <p>Cambridge, UK, CB2 1TJ</p>
+    <p>mm986[at]cam[dot]ac[dot]uk</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

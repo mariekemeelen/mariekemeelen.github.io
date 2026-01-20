@@ -18,3 +18,15 @@ nav_order: 2
 {% bibliography -f papers %}
 
 </div>
+
+<div class="Books and Edited volumes">
+
+{% bibliography -f bookseditedvols %}
+
+</div>
+
+<div class="Corpora and Datasets">
+
+{% bibliography -f datasets %}
+
+</div>

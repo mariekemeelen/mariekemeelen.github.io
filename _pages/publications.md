@@ -26,16 +26,6 @@ nav_order: 2
   margin-top: 2rem;
 }
 
-/*.bibliography .year {
-  color: var(--global-theme-color);
-  border-top: 1px solid var(--global-divider-color);
-  padding-top: 1rem;
-  margin-top: 2rem;
-  margin-bottom: -2rem;
-  text-align: right;
-  font-weight: bold;
-}*/
-
 /* Hide the year in individual bibliography entries */
 .bibliography .year {
   display: none;
@@ -63,17 +53,17 @@ nav_order: 2
 }
 </style>
 
-<ul> 
-	<li><a href="#booksvols"><b>Books & Edited volumes</b></a></li> 
-	<li><a href="#articles"><b>Articles & Chapters</b></a></li>
-	<li><a href="#datasets"><b>Annotated Corpora & Other Datasets</b></a></li> 
-</ul>
-
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
+
+<ul> 
+	<li><a href="#booksvols"><b>Books & Edited volumes</b></a></li> 
+	<li><a href="#articles"><b>Articles & Chapters</b></a></li>
+	<li><a href="#datasets"><b>Annotated Corpora & Other Datasets</b></a></li> 
+</ul>
 
 <div class="Books and Edited volumes">
 

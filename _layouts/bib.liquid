@@ -165,8 +165,10 @@
       {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
     {% endif %}
     {% assign entryyear = '' %}
-    {% if entry.year %}
-      {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
+    {% if entry.journal %}
+      <em>{{ entry.journal }}</em>
+      {% if entry.volume %}, {{ entry.volume }}{% endif %}
+      {% if entry.pages %}, pp. {{ entry.pages }}{% endif %}
     {% endif %}
     {% if entry.location %}
       {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.location }}{% endcapture %}

@@ -26,12 +26,34 @@ nav_order: 2
   margin-top: 2rem;
 }
 
-.bibliography .year {
+/*.bibliography .year {
   color: var(--global-theme-color);
   border-top: 1px solid var(--global-divider-color);
   padding-top: 1rem;
   margin-top: 2rem;
   margin-bottom: -2rem;
+  text-align: right;
+  font-weight: bold;
+}*/
+
+/* Hide the year in individual bibliography entries */
+.bibliography .year {
+  display: none;
+}
+
+/* Add spacing between bibliography entries */
+.bibliography li {
+  margin-bottom: 1.5rem;
+}
+
+/* Ensure year headers are still visible */
+.bibliography h2.year {
+  display: block;
+  color: var(--global-theme-color);
+  border-top: 1px solid var(--global-divider-color);
+  padding-top: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
   text-align: right;
   font-weight: bold;
 }
@@ -41,8 +63,6 @@ nav_order: 2
 }
 </style>
 
-<!-- rest of your content -->
-
 <ul> 
 	<li><a href="#booksvols"><b>Books & Edited volumes</b></a></li> 
 	<li><a href="#articles"><b>Articles & Chapters</b></a></li>
@@ -51,14 +71,13 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
 
 <div class="Books and Edited volumes">
 
-<h3 id="booksvols" style="margin-top: 4.5rem; margin-bottom: -1rem;"> Books & Edited volumes </h3>
+<h3 id="booksvols" style="margin-top: 4.5rem; margin-bottom: 2rem;"> Books & Edited volumes </h3>
 
 {% bibliography -f bookseditedvols %}
 
@@ -66,7 +85,7 @@ nav_order: 2
 
 <div class="articles">
 
-<h3 id="articles" style="margin-top: 4.5rem; margin-bottom: -1rem;"> Articles & Chapters </h3>
+<h3 id="articles" style="margin-top: 4.5rem; margin-bottom: 2rem;"> Articles & Chapters </h3>
 
 {% bibliography -f papers %}
 
@@ -75,7 +94,7 @@ nav_order: 2
 <div class="Corpora and Datasets">
 
 
-<h3 id="datasets" style="margin-top: 4.5rem; margin-bottom: -1rem;"> Books & Edited volumes </h3>
+<h3 id="datasets" style="margin-top: 4.5rem; margin-bottom: 2rem;"> Books & Edited volumes </h3>
 
 {% bibliography -f datasets %}
 

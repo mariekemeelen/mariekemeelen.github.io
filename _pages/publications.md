@@ -7,11 +7,32 @@ nav: true
 nav_order: 2
 ---
 
+<style>
+.bibliography {
+  list-style: none !important;
+  padding-left: 0 !important;
+}
+
+.bibliography li {
+  list-style-type: none !important;
+}
+
+.bibliography .year {
+  float: right;
+  font-weight: bold;
+}
+</style>
+
+<!-- rest of your content -->
+
+
 <!-- _pages/publications.md -->
 
-* [**Books & Edited volumes**](#booksvols)
-* [**Articles & Chapters**](#articles)
-* [**Annotated Corpora & Other Datasets**](#datasets)
+<ul> 
+	<li><a href="#booksvols"><b>Books & Edited volumes</b></a></li> 
+	<li><a href="#articles"><b>Articles & Chapters</b></a></li>
+	<li><a href="#datasets"><b>Annotated Corpora & Other Datasets</b></a></li> 
+</ul>
 
 <!-- Bibsearch Feature -->
 

@@ -21,18 +21,36 @@ nav_order: 2
   float: right;
   font-weight: bold;
 }
+
+.bibliography {
+  margin-top: 2rem;
+}
+
+.bibliography .year {
+  color: var(--global-theme-color);
+  border-top: 1px solid var(--global-divider-color);
+  padding-top: 1rem;
+  margin-top: 2rem;
+  margin-bottom: -2rem;
+  text-align: right;
+  font-weight: bold;
+}
+
+.bibliography .year + .bibliography > li {
+  margin-top: 2rem;
+}
 </style>
 
 <!-- rest of your content -->
-
-
-<!-- _pages/publications.md -->
 
 <ul> 
 	<li><a href="#booksvols"><b>Books & Edited volumes</b></a></li> 
 	<li><a href="#articles"><b>Articles & Chapters</b></a></li>
 	<li><a href="#datasets"><b>Annotated Corpora & Other Datasets</b></a></li> 
 </ul>
+
+<!-- _pages/publications.md -->
+
 
 <!-- Bibsearch Feature -->
 

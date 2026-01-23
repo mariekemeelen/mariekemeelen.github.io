@@ -9,11 +9,9 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<ul> 
-	<li><a href="#booksvols"><b>Books & Edited volumes</b></a></li> 
-	<li><a href="#articles"><b>Articles & Chapters</b></a></li>
-	<li><a href="#datasets"><b>Annotated Corpora & Other Datasets</b></a></li> 
-</ul>
+* [**Books & Edited volumes**](#booksvols)
+* [**Articles & Chapters**](#articles)
+* [**Annotated Corpora & Other Datasets**](#datasets)
 
 <!-- Bibsearch Feature -->
 

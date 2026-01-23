@@ -9,6 +9,14 @@ nav_order: 2
 
 <style>
 
+.bibtex {
+  display: none;
+}
+
+.bibtex.open {
+  display: block !important;
+}
+
 /* Style for DOI and other link buttons */
 .links .btn {
   border: 1px solid var(--global-text-color);

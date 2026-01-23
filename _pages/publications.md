@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Filter by language or key terms.
+description: 
 nav: true
 nav_order: 2
 ---
@@ -80,7 +80,7 @@ nav_order: 2
 
 <ul> 
 	<li><a href="#booksvols"><b>Books & Edited volumes</b></a></li> 
-	<li><a href="#articles"><b>Articles & Chapters</b></a></li>
+	<li><a href="#articles"><b>Peer-Reviewed Articles & Chapters</b></a></li>
 	<li><a href="#datasets"><b>Annotated Corpora & Other Datasets</b></a></li> 
 </ul>
 
@@ -94,7 +94,7 @@ nav_order: 2
 
 <div class="articles">
 
-<h3 id="articles" style="margin-top: 4.5rem; margin-bottom: 2rem;"> Articles & Chapters </h3>
+<h3 id="articles" style="margin-top: 4.5rem; margin-bottom: 2rem;"> Peer-Reviewed Articles & Chapters </h3>
 
 {% bibliography -f papers %}
 
@@ -103,7 +103,7 @@ nav_order: 2
 <div class="Corpora and Datasets">
 
 
-<h3 id="datasets" style="margin-top: 4.5rem; margin-bottom: 2rem;"> Books & Edited volumes </h3>
+<h3 id="datasets" style="margin-top: 4.5rem; margin-bottom: 2rem;"> Annotated Corpora & Other Datasets </h3>
 
 {% bibliography -f datasets %}
 

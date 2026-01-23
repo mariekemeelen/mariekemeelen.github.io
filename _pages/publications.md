@@ -8,6 +8,25 @@ nav_order: 2
 ---
 
 <style>
+
+/* Style for DOI and other link buttons */
+.links .btn {
+  border: 1px solid var(--global-text-color);
+  padding: 0.25rem 0.5rem;
+  margin-right: 0.5rem;
+  text-decoration: none;
+  color: var(--global-text-color);
+  background-color: transparent;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+}
+
+.links .btn:hover {
+  background-color: var(--global-theme-color);
+  color: white;
+  border-color: var(--global-theme-color);
+}
+
 .bibliography {
   list-style: none !important;
   padding-left: 0 !important;

@@ -9,12 +9,8 @@ nav_order: 2
 
 <style>
 
-.bibtex {
-  display: none;
-}
-
-.bibtex.open {
-  display: block !important;
+.hidden {
+  display: none !important;
 }
 
 /* Style for DOI and other link buttons */

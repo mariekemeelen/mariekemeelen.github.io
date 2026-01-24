@@ -67,7 +67,7 @@ nav_order: 2
 	<li><a href="#datasets"><b>Annotated Corpora & Other Datasets</b></a></li> 
 </ul>
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %} -->
 
 <div class="Books and Edited volumes">
 

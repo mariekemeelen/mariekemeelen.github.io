@@ -8,6 +8,19 @@ nav_order: 2
 ---
 
 <style>
+
+/* Add spacing between bibliography entries */
+.bibliography li {
+  margin-bottom: 1.5rem;
+  list-style: none;
+}
+
+/* Remove numbers from bibliography list */
+.bibliography {
+  list-style: none;
+  padding-left: 0;
+}
+
 /* Add spacing between bibliography entries */
 .bibliography li {
   margin-bottom: 1.5rem;

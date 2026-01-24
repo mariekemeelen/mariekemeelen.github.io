@@ -33,6 +33,20 @@ nav_order: 2
   color: white;
   border-color: var(--global-theme-color);
 }
+
+/* Style for BIB button specifically */
+.links .bibtex.btn {
+  color: var(--global-text-color) !important;
+  background-color: transparent !important;
+  border: 1px solid var(--global-text-color) !important;
+}
+
+.links .bibtex.btn:hover {
+  background-color: var(--global-theme-color) !important;
+  color: white !important;
+  border-color: var(--global-theme-color) !important;
+}
+
 /* Hide abstract and bibtex by default */
 .abstract.hidden,
 .bibtex.hidden {

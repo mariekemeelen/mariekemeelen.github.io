@@ -169,6 +169,9 @@
       <em>{{ entry.journal }}</em>
       {% if entry.volume %}, {{ entry.volume }}{% endif %}
       {% if entry.pages %}, pp. {{ entry.pages }}{% endif %}
+    {% elsif entry.booktitle %}
+      <em>In {{ entry.booktitle }}</em>
+      {% if entry.pages %}, pp. {{ entry.pages }}{% endif %}
     {% endif %}
     {% if entry.location %}
       {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.location }}{% endcapture %}

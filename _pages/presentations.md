@@ -65,17 +65,21 @@ nav_order: 3
 
 
 <ul> 
-	<li><a href="#Invited Talks"><b>Books & Edited volumes</b></a></li> 
-	<li><a href="#Peer-Reviewed Conference Talks"><b>Peer-Reviewed Articles & Chapters</b></a></li>
+	<li><a href="#InvitedTalks"><b>Books & Edited volumes</b></a></li> 
+	<li><a href="#ConferenceTalks"><b>Peer-Reviewed Articles & Chapters</b></a></li>
 </ul>
 
 <div class="Invited Talks">
+
+<h3 id="InvitedTalks" style="margin-top: 4.5rem; margin-bottom: 2rem;"> Invited Talks</h3>
 
 {% bibliography -f invitedtalks %}
 
 </div>
 
 <div class="Peer-Reviewed Conference Talks">
+
+<h3 id="ConferenceTalks" style="margin-top: 4.5rem; margin-bottom: 2rem;"> Peer-Reviewed Conference Talks</h3>
 
 {% bibliography -f posters %}
 

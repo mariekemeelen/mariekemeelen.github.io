@@ -57,6 +57,24 @@ nav_order: 2
 }
 </style>
 
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // When clicking anchor links, clear any search filters
+  document.querySelectorAll('a[href^="#"]').forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      // Clear the search input if it exists
+      var searchInput = document.querySelector('input[type="text"]');
+      if (searchInput) {
+        searchInput.value = '';
+        // Trigger the search to show all entries
+        var event = new Event('input', { bubbles: true });
+        searchInput.dispatchEvent(event);
+      }
+    });
+  });
+});
+</script>
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
@@ -67,7 +85,7 @@ nav_order: 2
 	<li><a href="#datasets"><b>Annotated Corpora & Other Datasets</b></a></li> 
 </ul>
 
-<!-- {% include bib_search.liquid %} -->
+{% include bib_search.liquid %}
 
 <div class="Books and Edited volumes">
 

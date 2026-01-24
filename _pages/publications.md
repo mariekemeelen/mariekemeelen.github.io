@@ -54,26 +54,19 @@ nav_order: 2
 .abstract.hidden.open,
 .bibtex.hidden.open {
   display: block;
+
+/* Force all bibliography sections and entries to be visible */
+.bibliography,
+.bibliography li,
+div[class*="Books"],
+div[class*="articles"],
+div[class*="Corpora"] {
+  display: block !important;
+  visibility: visible !important;
+}
+
 }
 </style>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  // When clicking anchor links, clear any search filters
-  document.querySelectorAll('a[href^="#"]').forEach(function(link) {
-    link.addEventListener('click', function(e) {
-      // Clear the search input if it exists
-      var searchInput = document.querySelector('input[type="text"]');
-      if (searchInput) {
-        searchInput.value = '';
-        // Trigger the search to show all entries
-        var event = new Event('input', { bubbles: true });
-        searchInput.dispatchEvent(event);
-      }
-    });
-  });
-});
-</script>
 
 <!-- _pages/publications.md -->
 

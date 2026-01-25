@@ -8,15 +8,15 @@
     # - name: Languages
     #   value: English, German
 
-- title: Education
+- title: Editing
   type: time_table
   contents:
-    - title: PhD
-      institution: Leiden University, The Netherlands
+    - title: Editor
+      institution: Vajra Academic Press
       year: 2016
       description:
-        - Diachronic syntax and information structure
-        - Welsh and other Celtic languages
+        - General assessment of submissions
+        - Main editor for language and linguistics section
         - title: Why Jesus and Job spoke bad Welsh - The origin and distribution of V2 orders in Middle Welsh
     #       contents:
     #         - Sub-description 1.
@@ -28,15 +28,18 @@
     #     - Description 1.
     #     - Description 2.
 
-- title: Experience
+- title: Reviewing
   type: time_table
   contents:
-    - title: Associate Professor in Historical Linguistics
-      institution: University of Cambridge
-      year: 2021-now
+    - title: Journals
+      institution: 
+      year: 2016 - present
       description:
-        - Teaching and researching historical linguistics
-        - Doing research in historical linguistics
+        - Language & Linguistics
+        - Journal of Historical Syntax
+        - Journal of Linguistics
+        - Journal of Celtic Linguistics
+        - 
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -79,14 +82,14 @@
 #       items:
 #         - Max Planck Medal
 
-- title: Academic Interests
+- title: College contributions
   type: nested_list
   contents:
-    - title: Historical Linguistics
+    - title: Director of Studies in Linguistics
       # items:
       #   - Description 1.
       #   - Description 2.
-    - title: Endangered Languages
+    - title: Tutor
       # items:
       #   - Description 1.
       #   - Description 2.

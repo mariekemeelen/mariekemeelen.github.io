@@ -8,7 +8,11 @@
     # - name: Languages
     #   value: English, German
 
-- title: Editing
+- title: '<ul class="cv-nav"><li><a href="#editing"><b>Editing</b></a></li><li><a href="#reviewing"><b>Reviewing</b></a></li></ul>'
+  type: map
+  contents:
+
+- title: Dditing
   type: time_table
   contents:
     - title: Editor

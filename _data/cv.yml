@@ -48,28 +48,10 @@
       description:
          - Arts & Humanities Research Council, UK
          - Endangered Language Documentation Programme, Germany
-
-
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items:
-#         - Nobel Prize in Physics
-#         - Matteucci Medal
-#     - year: 2029
-#       items:
-#         - Max Planck Medal
+         - Cambridge Language Science Incubator Funding, UK
 
 - title: College contributions
-  type: nested_list
+  type: time_table
   contents:
     - title: Director of Studies in Linguistics
       # items:

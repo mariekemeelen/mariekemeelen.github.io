@@ -2,7 +2,7 @@
 layout: page
 permalink: /presentations/
 title: presentations
-description: Filter by key term or location.
+description: 
 nav: true
 nav_order: 3
 ---

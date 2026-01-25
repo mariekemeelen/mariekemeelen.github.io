@@ -8,11 +8,10 @@
     # - name: Languages
     #   value: English, German
 
-- title: Dditing
+- title: Editing
   type: time_table
   contents:
-    - title: Editor
-      institution: <a href="https://vajrabookshop.com/vajra-academic/">Vajra Academic Press</a>
+    - title: <a href="https://vajrabookshop.com/vajra-academic/">Vajra Academic Press</a>
       year: 2020 - present
       description:
         - General assessment of submissions

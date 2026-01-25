@@ -1,6 +1,6 @@
-- title: General Information
-  type: map
-  contents:
+# - title: General Information
+#   type: map
+#   contents:
     # - name: Full Name
     #   value: Marieke Meelen
     # - name: Date of Birth
@@ -13,20 +13,19 @@
   contents:
     - title: Editor
       institution: Vajra Academic Press
-      year: 2016
+      year: 2020 - present
       description:
         - General assessment of submissions
         - Main editor for language and linguistics section
-        - title: Why Jesus and Job spoke bad Welsh - The origin and distribution of V2 orders in Middle Welsh
     #       contents:
     #         - Sub-description 1.
     #         - Sub-description 2.
-    # - title: Federal teaching diploma
-    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-    #   year: 1900
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
+    - title: Journal of Historical Syntax
+      institution: Konstanz, Germany
+      year: 2017 - present
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
 - title: Reviewing
   type: time_table
@@ -39,17 +38,17 @@
         - Journal of Historical Syntax
         - Journal of Linguistics
         - Journal of Celtic Linguistics
-        - 
+        - Journal of Open Humanities Data
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: Fellow, DoS and Tutor
-      institution: Trinity Hall
-      year: 2020-now
-      # description:
-      #   - Description 1.
-      #   - Description 2.
+    - title: Grants
+      institution: 
+      year: 2020 - present
+      description:
+         - Arts & Humanities Research Council, UK
+         - Endangered Language Documentation Programme, Germany
 
     # - title: Director
     #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.

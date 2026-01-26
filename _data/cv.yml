@@ -50,7 +50,7 @@
          - Endangered Language Documentation Programme, Germany
          - Cambridge Language Science Incubator Funding, UK
 
-- title: College contributions (<a href="https://www.trinhall.cam.ac.uk/">Trinity Hall</a>)
+- title: College contributions <a href="https://www.trinhall.cam.ac.uk/">(Trinity Hall)</a>
   type: time_table
   contents:
     - title: Director of Studies in Linguistics
@@ -63,20 +63,28 @@
       # items:
       #   - Description 1.
       #   - Description 2.
-    - title: Member of the Library & Archives Committee
+    - title: Education Policy Committee member
+      year: 2023 - present
+    - title: Library & Archives Committee member
       year: 2022 - present
+    - title: English Faculty Board member
+      year: 2022 - present
+    - title: Cambridge Language Science board member
+      year: 2023 - present
 
-- title: Cambridge Admin (<a href="www.mmll.cam.ac.uk">MMLL Faculty</a>)
+- title: Cambridge Admin
   type: time_table
   contents:
-    - title: Chair of Examining
+    - title: Chair of Tripos & Examining
       year: 2024 - 2025
     - title: Subject Convenor
       year: 2019 - 2025
     - title: Outreach Officer
-      year: 2024 - 2025
+      year: 2022 - 2023
+    - title: AI in education working group member
+      year: 2023 - present
 
 - title: Other Interests
   type: list
   contents:
-    - Speed skating, Real tennis, Hiking in the mountains, DofE training & assessing
+    - Speed skating, Real tennis, Mountain Hiking, DofE training & assessing

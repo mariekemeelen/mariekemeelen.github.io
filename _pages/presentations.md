@@ -7,6 +7,10 @@ nav: true
 nav_order: 3
 ---
 
+<ul> 
+  <li><a href="#InvitedTalks"><b>Invited Talks</b></a></li> 
+  <li><a href="#ConferenceTalks"><b>Peer-Reviewed Conference Presentations</b></a></li>
+</ul>
 
 <style>
 /* Add spacing between bibliography entries */
@@ -73,11 +77,6 @@ div[class*="Workshop"] {
 
 {% include bib_search.liquid %}
 
-
-<ul> 
-	<li><a href="#InvitedTalks"><b>Invited Talks</b></a></li> 
-	<li><a href="#ConferenceTalks"><b>Peer-Reviewed Conference Presentations</b></a></li>
-</ul>
 
 <div class="Invited Talks">
 

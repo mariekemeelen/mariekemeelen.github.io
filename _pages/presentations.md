@@ -19,6 +19,43 @@ nav_order: 3
   list-style: none;
   padding-left: 0;
 }
+/* Style for buttons */
+.links .btn {
+  border: 1px solid var(--global-text-color);
+  padding: 0.25rem 0.5rem;
+  margin-right: 0.5rem;
+  text-decoration: none;
+  color: var(--global-text-color);
+  background-color: transparent;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+}
+.links .btn:hover {
+  background-color: var(--global-theme-color);
+  color: white;
+  border-color: var(--global-theme-color);
+}
+/* Style for BIB button specifically */
+.links .bibtex.btn {
+  color: var(--global-text-color) !important;
+  background-color: transparent !important;
+  border: 1px solid var(--global-text-color) !important;
+}
+.links .bibtex.btn:hover {
+  background-color: var(--global-theme-color) !important;
+  color: white !important;
+  border-color: var(--global-theme-color) !important;
+}
+/* Hide abstract and bibtex by default */
+.abstract.hidden,
+.bibtex.hidden {
+  display: none;
+}
+/* Show when JavaScript adds 'open' class */
+.abstract.hidden.open,
+.bibtex.hidden.open {
+  display: block;
+}
 /* Force all bibliography sections and entries to be visible */
 .bibliography,
 .bibliography li,

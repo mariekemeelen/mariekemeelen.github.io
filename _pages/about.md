@@ -45,11 +45,11 @@ Current and past PhD students and postdocs and their topics:
 - Nora Dehmke: Syntactic reconstruction of passives in Celtic
 - [Kitty Liu](https://kitty-liu-wy.github.io): Diachrony of clause chaining in Tibetic languages
 - Stephen Mulraney: Linguistic features of Old Tibetan
-- [Rachael M. Griffiths](https://www.languagesciences.cam.ac.uk/staff/rachael-griffiths): Tibetan HTR & NLP
-- [Christian Faggionato](https://www.researchgate.net/profile/Christian-Faggionato): Tibetan & Dzardzongke NLP
-- Liwen Liu: Egophoricity in Newar
-- [Alexander O'Neill](https://www.alexanderjoneill.com/home): Historical Newar NLP
-- Mark Darling: Null subjects in the history of Irish
+- [Dr Rachael M. Griffiths](https://www.languagesciences.cam.ac.uk/staff/rachael-griffiths): Tibetan HTR & NLP
+- [Dr Christian Faggionato](https://www.researchgate.net/profile/Christian-Faggionato): Tibetan & Dzardzongke NLP
+- Dr Liwen Liu: Egophoricity in Newar
+- [Dr Alexander O'Neill](https://www.alexanderjoneill.com/home): Historical Newar NLP
+- Dr Mark Darling: Null subjects in the history of Irish
 
 
 

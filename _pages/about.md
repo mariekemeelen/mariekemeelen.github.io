@@ -38,12 +38,18 @@ I'm currently involved in the following research projects:
 
 I supervise graduate students who are interested in linguistic questions about morphosyntactic change and language documentation of endangered languages. If you're interested in applying for a PhD with me, please send me an email with a brief description of your research question and planned methodology. 
 
-Current and past PhD students and their topics:
+Current and past PhD students and postdocs and their topics:
 - [Sarah Gordon](https://skg4597.wixsite.com/my-site-1): Acquisition and change in the history of English and BSL
 - [Luca Gal](https://sites.google.com/view/lucagal/home): Language contact in evaluative morphology 
 - [Anna Danilova](https://sites.google.com/cam.ac.uk/annadanilovalinguist/home?authuser=0): Comparative syntax of converbs (adverbial participles)
 - Nora Dehmke: Syntactic reconstruction of passives in Celtic
 - [Kitty Liu](https://kitty-liu-wy.github.io): Diachrony of clause chaining in Tibetic languages
 - Stephen Mulraney: Linguistic features of Old Tibetan
+- [Rachael M. Griffiths](https://www.languagesciences.cam.ac.uk/staff/rachael-griffiths): Tibetan HTR & NLP
+- [Christian Faggionato](https://www.researchgate.net/profile/Christian-Faggionato): Tibetan & Dzardzongke NLP
+- Liwen Liu: Egophoricity in Newar
+- [Alexander O'Neill](https://www.alexanderjoneill.com/home): Historical Newar NLP
+- Mark Darling: Null subjects in the history of Irish
+
 
 

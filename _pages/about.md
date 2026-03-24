@@ -48,6 +48,7 @@ Current and past PhD students and postdocs and their topics:
 - [Dr Rachael M. Griffiths](https://www.languagesciences.cam.ac.uk/staff/rachael-griffiths): Tibetan HTR & NLP
 - [Dr Christian Faggionato](https://www.researchgate.net/profile/Christian-Faggionato): Tibetan & Dzardzongke NLP
 - Dr Liwen Liu: Egophoricity in Newar
+- [Dr Mathieu Beaudouin](https://www.clarehall.cam.ac.uk/directory/mathieu-beaudouin/): Tangut and Horpa languages
 - [Dr Alexander O'Neill](https://www.alexanderjoneill.com/home): Historical Newar NLP
 - Dr Mark Darling: Null subjects in the history of Irish
 

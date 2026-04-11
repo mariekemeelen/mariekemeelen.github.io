@@ -47,10 +47,11 @@
       year: 2020 - present
       description:
          - Arts & Humanities Research Council, UK
+         - Swiss National Science Foundation, Switzerland
          - Endangered Language Documentation Programme, Germany
          - Cambridge Language Science Incubator Funding, UK
 
-- title: College contributions <a href="https://www.trinhall.cam.ac.uk/">(Trinity Hall)</a>
+- title: College contributions (Trinity Hall)
   type: time_table
   contents:
     - title: Director of Studies in Linguistics
@@ -67,22 +68,24 @@
       year: 2023 - present
     - title: Library & Archives Committee member
       year: 2022 - present
-    - title: English Faculty Board member
-      year: 2022 - present
-    - title: Cambridge Language Science board member
-      year: 2023 - present
+
 
 - title: Cambridge Admin
   type: time_table
   contents:
     - title: Chair of Tripos & Examining
-      year: 2024 - 2025
+      year: 2024 - 2025, 2026 - 2027
     - title: Subject Convenor
       year: 2019 - 2025
-    - title: Outreach Officer
-      year: 2022 - 2023
     - title: AI in education working group member
       year: 2023 - present
+    - title: Cambridge Language Science board member
+      year: 2023 - present
+    - title: English Faculty Board member
+      year: 2022 - present
+    - title: Outreach Officer
+      year: 2022 - 2023
+
 
 - title: Other Interests
   type: list

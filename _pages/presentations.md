@@ -8,8 +8,8 @@ nav_order: 3
 ---
 
 <ul> 
-  <li><a href="#InvitedTalks"><b>Invited Talks</b></a></li> 
-  <li><a href="#ConferenceTalks"><b>Peer-Reviewed Conference Presentations</b></a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('InvitedTalks').scrollIntoView({behavior:'smooth'})"><b>Invited Talks</b></a></li> 
+  <li><a href="javascript:void(0)" onclick="document.getElementById('ConferenceTalks').scrollIntoView({behavior:'smooth'})"><b>Peer-Reviewed Conference Presentations</b></a></li>
 </ul>
 
 <style>

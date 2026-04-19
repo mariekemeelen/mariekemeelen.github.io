@@ -70,15 +70,6 @@ div[class*="Workshop"] {
 }
 </style>
 
-<script>
-  // Prevent bibsearch.js from treating anchor link hashes as search terms.
-  // List every section ID used on this page as an anchor:
-  const anchorIds = ['InvitedTalks', 'ConferenceTalks'];
-  if (anchorIds.includes(location.hash.slice(1))) {
-    history.replaceState(null, '', location.pathname);
-  }
-</script>
-
 <!-- _pages/presentations.md -->
 
 <!-- Bibsearch Feature -->
@@ -89,6 +80,15 @@ div[class*="Workshop"] {
 <div class="Invited Talks">
 
 <h3 id="InvitedTalks" style="margin-top: 4.5rem; margin-bottom: 2rem;"> Invited Talks</h3>
+
+<script>
+  // Prevent bibsearch.js from treating anchor link hashes as search terms.
+  // List every section ID used on this page as an anchor:
+  const anchorIds = ['InvitedTalks', 'ConferenceTalks'];
+  if (anchorIds.includes(location.hash.slice(1))) {
+    history.replaceState(null, '', location.pathname);
+  }
+</script>
 
 {% bibliography -f invitedtalks %}
 

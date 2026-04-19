@@ -57,9 +57,7 @@ nav_order: 2
 .bibtex.hidden.open {
   display: block;
 }
-/* Force all bibliography sections and entries to be visible */
-.bibliography,
-.bibliography li,
+/* Ensure bibliography section headings are visible */
 div[class*="Books"],
 div[class*="articles"],
 div[class*="Corpora"] {
@@ -69,9 +67,9 @@ div[class*="Corpora"] {
 </style>
 
 <ul> 
-  <li><a href="#booksvols"><b>Books & Edited volumes</b></a></li> 
-  <li><a href="#articles"><b>Peer-Reviewed Articles & Chapters</b></a></li>
-  <li><a href="#datasets"><b>Annotated Corpora & Other Datasets</b></a></li> 
+  <li><a href="javascript:void(0)" onclick="document.getElementById('booksvols').scrollIntoView({behavior:'smooth'})"><b>Books & Edited volumes</b></a></li> 
+  <li><a href="javascript:void(0)" onclick="document.getElementById('articles').scrollIntoView({behavior:'smooth'})"><b>Peer-Reviewed Articles & Chapters</b></a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('datasets').scrollIntoView({behavior:'smooth'})"><b>Annotated Corpora & Other Datasets</b></a></li> 
 </ul>
 
 {% include bib_search.liquid %}

@@ -70,6 +70,15 @@ div[class*="Workshop"] {
 }
 </style>
 
+<script>
+  // Prevent bibsearch.js from treating anchor link hashes as search terms.
+  // List every section ID used on this page as an anchor:
+  const anchorIds = ['InvitedTalks', 'ConferenceTalks'];
+  if (anchorIds.includes(location.hash.slice(1))) {
+    history.replaceState(null, '', location.pathname);
+  }
+</script>
+
 <!-- _pages/presentations.md -->
 
 <!-- Bibsearch Feature -->

@@ -60,9 +60,8 @@ nav_order: 3
 .bibtex.hidden.open {
   display: block;
 }
-/* Force all bibliography sections and entries to be visible */
-.bibliography,
-.bibliography li,
+
+/* Ensure bibliography section headings are visible */
 div[class*="Invited"],
 div[class*="Conference"],
 div[class*="Workshop"] {

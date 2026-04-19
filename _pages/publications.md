@@ -6,6 +6,11 @@ description:
 nav: true
 nav_order: 2
 ---
+<ul> 
+  <li><a href="javascript:void(0)" onclick="document.getElementById('booksvols').scrollIntoView({behavior:'smooth'})"><b>Books & Edited volumes</b></a></li> 
+  <li><a href="javascript:void(0)" onclick="document.getElementById('articles').scrollIntoView({behavior:'smooth'})"><b>Peer-Reviewed Articles & Chapters</b></a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('datasets').scrollIntoView({behavior:'smooth'})"><b>Annotated Corpora & Other Datasets</b></a></li> 
+</ul>
 <style>
 /* Add spacing between bibliography entries */
 .bibliography li {
@@ -33,20 +38,17 @@ nav_order: 2
   color: white;
   border-color: var(--global-theme-color);
 }
-
 /* Style for BIB button specifically */
 .links .bibtex.btn {
   color: var(--global-text-color) !important;
   background-color: transparent !important;
   border: 1px solid var(--global-text-color) !important;
 }
-
 .links .bibtex.btn:hover {
   background-color: var(--global-theme-color) !important;
   color: white !important;
   border-color: var(--global-theme-color) !important;
 }
-
 /* Hide abstract and bibtex by default */
 .abstract.hidden,
 .bibtex.hidden {
@@ -65,25 +67,15 @@ div[class*="Corpora"] {
   visibility: visible !important;
 }
 </style>
-
-<ul> 
-  <li><a href="javascript:void(0)" onclick="document.getElementById('booksvols').scrollIntoView({behavior:'smooth'})"><b>Books & Edited volumes</b></a></li> 
-  <li><a href="javascript:void(0)" onclick="document.getElementById('articles').scrollIntoView({behavior:'smooth'})"><b>Peer-Reviewed Articles & Chapters</b></a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('datasets').scrollIntoView({behavior:'smooth'})"><b>Annotated Corpora & Other Datasets</b></a></li> 
-</ul>
-
 {% include bib_search.liquid %}
-
 <div class="Books and Edited volumes">
 <h3 id="booksvols" style="margin-top: 4.5rem; margin-bottom: 2rem;"> Books & Edited volumes </h3>
 {% bibliography -f bookseditedvols %}
 </div>
-
 <div class="articles">
 <h3 id="articles" style="margin-top: 4.5rem; margin-bottom: 2rem;"> Peer-Reviewed Articles & Chapters </h3>
 {% bibliography -f papers %}
 </div>
-
 <div class="Corpora and Datasets">
 <h3 id="datasets" style="margin-top: 4.5rem; margin-bottom: 2rem;"> Annotated Corpora & Other Datasets </h3>
 {% bibliography -f datasets %}
